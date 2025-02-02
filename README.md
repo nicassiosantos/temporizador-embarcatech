@@ -46,8 +46,6 @@ Cada LED deve estar em série com um resistor e conectado ao respectivo pino GPI
 - Quando o botão for pressionado, os LEDs acenderão simultaneamente e apagarão em sequência após os tempos programados.
 
 ## Autor
-Desenvolvido para controle básico de LEDs no Raspberry Pi Pico.
-
-## Licença
 - **[Nicassio Santos.](https://github.com/nicassiosantos)**
+
 
